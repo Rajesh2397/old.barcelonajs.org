@@ -6844,3 +6844,9 @@ nav {
     width: 25%;
   }
 }
+.alert-node {
+  color: #88BF43;
+  background-color: white;
+  font-family: "bello-pro", sans-serif;
+  font-size: 2em;
+}
