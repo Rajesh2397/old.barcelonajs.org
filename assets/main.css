@@ -6279,6 +6279,7 @@ nav {
   height: 150px;
   background-position: center center;
   background-repeat: no-repeat;
+  background-size: auto 100%;
 }
 .events .event .speaker-name {
   line-height: 2em;
